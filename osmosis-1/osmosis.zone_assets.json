@@ -1523,7 +1523,7 @@
       "base_denom": "uqsr",
       "path": "transfer/channel-688/uqsr",
       "osmosis_main": true,
-      "osmosis_frontier": false
+      "osmosis_frontier": true
     }
   ]
 }
